@@ -1,0 +1,2 @@
+# How_Business_Thinkers_Can_Start_Building_AI_Plugins_With_Semantic_Kernel
+Semantic Kernel (SK) is 
