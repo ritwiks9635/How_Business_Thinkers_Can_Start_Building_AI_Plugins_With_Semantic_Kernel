@@ -1,5 +1,7 @@
 # How_Business_Thinkers_Can_Start_Building_AI_Plugins_With_Semantic_Kernel
 
+[Complete](https://learn.deeplearning.ai/accomplishments/78a0dfff-448d-468a-9102-4652c1a72187?usp=sharing)
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVU5Lj9-npQGEbxYlVDi1DSkbbMECRQM8v9A&usqp=CAU)
 
 Semantic Kernel (SK) is an open-source SDK from Microsoft that allows users to build AI agents that can call existing code. SK integrates large language models (LLMs) like OpenAI, Azure OpenAI, and Hugging Face with programming languages like C#, Python, and Java. This allows users to combine existing code with these models to build agents that can answer questions and automate processes.
